@@ -23,7 +23,7 @@ EMTerm classifier (https://github.com/guyao/EMTerms)
 
 ## Usage ##
 1. Clone this repo  
-2. Install the EMClassifier  
+2. Install the EMTerm classifier (https://github.com/guyao/EMTerms)  
 3. Make configurations in disaster_awareness_config.json and prepare your input   
 4. Run command  
 ```
