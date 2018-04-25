@@ -1,0 +1,23 @@
+T01	Caution and advice - response:1, opinion:1, precaution:3
+T02	Injured people - exp. need:3, imp. need:2, fact/statem:1, update:1, casualties/aftermath:3, relief ongoing:2
+T03	Dead people - exp. need:2, imp. need:3, update:1, casualties/aftermath:2, relief ongoing:1
+T04	Infrastructure damage - exp. need:1, imp. need:3, casualties/aftermath:3
+T05	Money - exp. need:1, imp. need:1, delivered/arrived:1, response:1, fact/statem:1, opinion:1, update:1, offer:1, casualties/aftermath:1
+T06	Supplies needed or offered - exp. need:3, imp. need:3, delivered/arrived:2, response:2, update:1, offer:3, casualties/aftermath:1, relief ongoing:1, finished:1
+T07	Services needed or offered - exp. need:3, imp. need:3, delivered/arrived:2, response:2, update:1, offer:3, casualties/aftermath:1, relief ongoing:1, finished:1
+T08	Missing, found, or trapped people - exp. need:3, imp. need:2, fact/statem:1, update:2, casualties/aftermath:3, relief ongoing:1
+T09	Displaced and evacuated people - fact/statem:1, update:3, casualties/aftermath:2, finished:1
+T10	Animal management - exp. need:1, imp. need:1, relief ongoing:1, fact/statem:1
+T11	Personal updates, sympathy - response:3, opinion:3, update:3, casualties/aftermath:1
+C01	Children and education - exp. need:1, imp. need:1, response:1, fact/statem:1, opinion:1, update:1, casualties/aftermath:1, relief ongoing:1, precaution:1
+C02	Food and nutrition - exp. need:2, imp. need:2, delivered/arrived:1, fact/statem:1, opinion:1, offer:2, relief ongoing:1, finished:1, precaution:1
+C03	Health - imp. need:1, fact/statem:1, opinion:1, casualties/aftermath:1, relief ongoing:1
+C04	Logistics and transportation - delivered/arrived:3, update:1, offer:1, relief ongoing:1
+C05	Camp and shelter - exp. need:1, imp. need:3, relief ongoing:2
+C06	Water, sanitation, and hygiene - exp. need:1, imp. need:1, delivered/arrived:1, fact/statem:1, casualties/aftermath:1, relief ongoing:1, precaution:1
+C07	Safety and security	- exp. need:1, imp. need:1, response:1, fact/statem:1, casualties/aftermath:1, precaution:1
+C08	Telecommunications - exp. need:1, imp. need:1, update:1, casualties/aftermath:1
+O01	Weather	- imp. need:1, fact/statem:1, happen:2
+O02	Response agencies in place - exp. need:1, imp. need:1, delivered/arrived:3, response:3, update:2, relief ongoing:2, finished:1
+O03	Witnesses’ accounts	- fact/statem:1, opinion:1, casualties/aftermath:1
+O04	Impact of the crisis - imp. need:2, fact/statem:1, casualties/aftermath:3, update:2

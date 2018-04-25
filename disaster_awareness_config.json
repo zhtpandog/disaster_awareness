@@ -1,0 +1,6 @@
+{"data_directory": "sample.txt",
+"mapping_directory": "map_scale3.txt",
+"result_filename": "result.txt",
+"mode": "topk",
+"k": 3,
+"threshold": 10}

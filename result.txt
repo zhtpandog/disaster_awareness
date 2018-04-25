@@ -1,0 +1,4 @@
+imp. need,exp. need,delivered/arrived
+imp. need,response,exp. need
+imp. need,delivered/arrived,exp. need
+imp. need,casualties/aftermath,response
